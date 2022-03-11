@@ -1,16 +1,18 @@
-# aula03_09_03_2022
+# Aula 03 - 09-03-2022 - Etanol x Gasolina
 
-aula03_09_03_2022
+![Badge](https://img.shields.io/badge/Marcos%20Dias%20Vendramini-Flutter-blue)
 
-## Getting Started
+### Aula 03 ministrada no dia 09/03/2022 para o quinto período do Curso de Sistemas para Internet da UniAlfa de Umuarama (1º Bimestre).
 
-This project is a starting point for a Flutter application.
+### Conteúdo
 
-A few resources to get you started if this is your first Flutter project:
+- [x] Criando métodos para criar Widgets
+- [x] Controllers para Widgets
+- [x] AlertDialog para mensagens
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Tecnologias
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Flutter](https://flutter.dev/)
+- [Android Studio](https://developer.android.com/studio)
